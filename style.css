@@ -57,11 +57,9 @@ button{
     margin-top:6.1vh;
 }
 footer{
-    width:100vw;
-    height:5vh;
     display: flex;
     justify-content: center;
-     align-items:center;
+    align-items:center;
 }
 footer p {
     font-family: 'Montserrat',sans-serif;
