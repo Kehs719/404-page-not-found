@@ -57,15 +57,14 @@ button{
     margin-top:6.1vh;
 }
 footer{
-    position:absolute;
-    bottom:0;
     display: flex;
     justify-content: center;
-    align-items:center;
 }
 footer p {
     font-family: 'Montserrat',sans-serif;
     color:#BDBDBD;
+    position:absolute;
+    bottom:0;
 }
 @media(max-width:900px){
 
