@@ -59,13 +59,12 @@ button{
 footer{
     display: flex;
     justify-content: center;
+    text-align:flex-end;
 
 }
 footer p {
     font-family: 'Montserrat',sans-serif;
     color:#BDBDBD;
-    position: absolute;
-    bottom: 0;
 }
 @media(max-width:900px){
 
