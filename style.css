@@ -57,14 +57,12 @@ button{
     margin-top:6.1vh;
 }
 footer{
-    position:absolute;
-    bottom:0;
+    footer{
+    position:static;
+    bottom:0px;
     width:90%;
-    height:50px;
-    text-align:center;
-    display: flex;
-    justify-content: center;
-    align-items:center;
+    text-align: center;
+}
     
 }
 footer p {
