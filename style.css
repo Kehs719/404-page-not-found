@@ -62,6 +62,8 @@ footer{
     bottom:0px;
     width:90%;
     text-align: center;
+    display:flex;
+    justify-content:center;
 }
     
 }
