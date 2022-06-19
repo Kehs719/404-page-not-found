@@ -9,7 +9,7 @@
 body{
     font-family: 'Space Mono',sans-serif;
     height: 100vh;
-    padding: 3.7vh 7.1vh;
+    padding: 3.7vh 7.1vh 0 7.1vh;
 }
 header h2{
     letter-spacing: -2.5px;
@@ -57,15 +57,15 @@ button{
     margin-top:6.1vh;
 }
 footer{
+    width:100vw;
+    height:5vh;
     display: flex;
     justify-content: center;
-
+     align-items:center;
 }
 footer p {
     font-family: 'Montserrat',sans-serif;
     color:#BDBDBD;
-    position:absolute;
-    bottom:0;
 }
 @media(max-width:900px){
 
